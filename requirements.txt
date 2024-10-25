@@ -6,3 +6,4 @@ flask
 pypdf
 pinecone-client
 python-dotenv
+setuptools
